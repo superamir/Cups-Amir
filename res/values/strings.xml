@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CUPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="model_changed">MODEL_CHANGED</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="lat">lat</string>
+    <string name="lng">lng</string>
+    <string name="venues">venues</string>
+    <string name="cupstelaviv_venues_url">http://cupstelaviv.com/venues</string>
+
+</resources>
